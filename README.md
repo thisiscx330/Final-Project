@@ -33,8 +33,6 @@ tsf_cols_years.json：球齡特徵
 
 *train_data、test_data資料夾 檔案太大，可至連結下載
 
-*其他實驗過程與產出csv檔可至連結下載
-
 https://drive.google.com/drive/folders/15-eDP6aBLebYYjjQXItRxmC-qdKPfK0b?usp=sharing
 
 ---------------------------------
